@@ -5,7 +5,7 @@ package helloworld;
  */
 public class HelloMessage {
 	/*
-	 * Returns the greetings message
+	 * Returns the greetings message "Hello World!"
 	 */
 	public String getMessage() {
 		return "Hello World!";
